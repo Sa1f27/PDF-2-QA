@@ -1,0 +1,5 @@
+fitz  # PyMuPDF for PDF processing
+reportlab  # For generating PDFs
+groq  # For LLM-powered AI answers
+openai  # Optional if using OpenAI models
+regex  # For text pattern matching
