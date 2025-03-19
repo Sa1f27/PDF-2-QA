@@ -10,8 +10,8 @@ PDF-QA-Expert extracts questions from PDFs and generates AI-powered answers at t
 
 ### **📦 Installation**  
 ```bash
-git clone https://github.com/your-username/PDF-QA-Expert.git
-cd PDF-QA-Expert
+git clone https://github.com/Sa1f27/PDF-2-QA.git
+cd PDF-2-QA
 pip install -r requirements.txt
 ```
 
